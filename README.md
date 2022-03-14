@@ -7,7 +7,7 @@ Analysis of cryptocurrencies data
 
 ### Note:
   - Live display page will update every 5 seacond.
-  - Upload File DB Page - will upload only csv fils. with the fllow titles  
+  - Upload File DB Page - will upload only csv fils. with the follow titles  
       * time_period_start
       * time_period_end
       * price_open
