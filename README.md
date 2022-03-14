@@ -15,5 +15,5 @@ Analysis of cryptocurrencies data
       * price_low
       * volume_traded
       * trades_count
-   - Analyze Page, Analyze only files that upload to DB, you can filter the relevant time.
+   - Analyze Page, Analyze only files that upload to DB, you can filter for relevant time.
 
