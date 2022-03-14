@@ -3,7 +3,7 @@ Analysis of cryptocurrencies data
 
 
 
-## Go into the folders server and client and fllow the instructions.
+## Go into the folders server and client and follow the instructions.
 
 ### Note:
   - Live display page will update every 5 seacond.
